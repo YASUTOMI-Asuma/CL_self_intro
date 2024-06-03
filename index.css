@@ -1,0 +1,17 @@
+@charset "UTF-8";
+table {
+	-ms-writing-mode : lr-tb;
+	writing-mode : vertical-lr;
+	margin: auto;
+} 
+th {
+	writing-mode:lr-tb;
+	text-align:left;
+}
+td {
+	writing-mode:lr-tb;
+	text-align:left;
+}
+ul {
+	margin: auto;
+}
